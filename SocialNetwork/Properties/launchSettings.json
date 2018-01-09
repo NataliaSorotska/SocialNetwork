@@ -18,12 +18,11 @@
     },
     "SocialNetwork": {
       "commandName": "Project",
-      "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:7294/"
+      "applicationUrl": "http://localhost:8000"
     }
   }
 }
