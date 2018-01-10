@@ -35,9 +35,8 @@ namespace SocialNetwork
             }
             //loggerFactory.AddConsole();
 
-            //app.UseDefaultFiles();
+            app.UseDefaultFiles();
             app.UseStaticFiles();
-
 
             app.UseMvc();
         }
